@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Pricing.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/InventoryDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Invoice.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/PeopleApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/SalesApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/SettingsApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/PricingDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/DashboardApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/CategoryApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/CustomerApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/InvoiceEditApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/InvoiceApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/SupplierApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/ProductEditApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/ProductApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/InventoryInfoApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/InventoryApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/InvoiceShowApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/ProductBatchApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Product.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/PricingApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/SupplierDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Category.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Inventory.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/PurchaseOrder.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/PurchaseOrderApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/InvoiceDAO.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/gui/ReportApp.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/model/Supplier.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/common/ICommonInterface.java</file>
+            <file>file:/C:/Users/Minhajul%20Islam/Documents/NetBeansProjects/IPHARM/src/com/pharma/dao/PurchaseOrderDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
